@@ -1,6 +1,6 @@
 # goS3
 Simple go tool for bruteforcing S3 buckets
 
-made by @mirhatyasar & @ograsyilmaz 
+made by [@mirhatyasar](https://github.com/mirhatyasar) & [@ograsyilmaz](https://github.com/ograsyilmaz)
 
-Inspired by https://github.com/nahamsec/lazys3
+Inspired by [lazys3](https://github.com/nahamsec/lazys3)
